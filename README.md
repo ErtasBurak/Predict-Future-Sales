@@ -1,0 +1,34 @@
+# Predict-Future-Sales
+
+## In these projects I used Visual Studio Code.
+----
+![VSC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSurJN7Nn_holftXdHuOXgcA4M7vvxjnUhgXw&usqp=CAU)
+-----
+
+### I prefer [VSC](https://code.visualstudio.com), because it supports more programming languages and has more extensions.
+
+### For the train/test files look up [here](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data).
+----
+
+# License
+```
+Copyright (c) 2021 Burak Ertaş
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
